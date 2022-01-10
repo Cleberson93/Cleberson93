@@ -1,4 +1,4 @@
-### Olá, eu sou o Cleberson Silva, atuamente estudando para me tornar um desenvolvedor FullStack!
+### Olá, eu sou o Cleberson Silva, desenvolvedor FullStack em Formação!
 
 <div align="center">
   <a href="https://github.com/Cleberson93">
@@ -14,3 +14,7 @@
   <a href="https://www.linkedin.com/in/cleberson-silva-6648b1221" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
+##
+
+  
+  ![Snake animation](https://github.com/Cleberson93/Cleberson93/blob/output/github-contribution-grid-snake.svg)
